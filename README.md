@@ -5,7 +5,7 @@ interactive chat_shell to interact via pythons openai module with local LLMs lik
 
 prerequisires 
 
-
-
+git clone https://github.com/Zahnschmelz/gp_chat_shell.git
+cd gp_chat_shell
 python -m venv venv
 source venv/bin/activate
