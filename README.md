@@ -6,6 +6,7 @@ interactive chat_shell to interact via pythons openai module with local LLMs lik
 prerequisires 
 
 """
+
 sudo pacman -Syu && sudo pacman -Sy konsole
 
 git clone https://github.com/Zahnschmelz/gp_chat_shell.git
@@ -17,5 +18,6 @@ python -m venv venv
 source venv/bin/activate
 
 pip install -r requirements.txt && pip install -e .
+
 
 """
