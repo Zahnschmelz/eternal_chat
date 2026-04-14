@@ -13,7 +13,7 @@ MEMORY_FILE = "memory.json"
 CONFIG_FILE = "config.json"
 DEFAULT_CONFIG = {
     "token_threshold": 5000,
-    "base_url": "http://127.0.0.1:1994/v1",
+    "base_url": "http://127.0.0.1:1234/v1",
     "api_key": "lm-studio"
 }
 BASE_SYSTEM_PROMPT = (
