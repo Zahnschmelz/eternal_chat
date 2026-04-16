@@ -1,3 +1,5 @@
-langchain_openai
+openai
+rich
+prompt_toolkitlangchain_openai
 langchain
 langchain_core
